@@ -1,3 +1,8 @@
+![sPlan 8](https://img.shields.io/badge/sPlan-8.0-blue?logo=windows)
+![ГОСТ](https://img.shields.io/badge/ЕСКД-green)
+![Лицензия](https://img.shields.io/github/license/ElectroDenny/splan-gost-library)
+![Последнее обновление](https://img.shields.io/github/last-commit/ElectroDenny/splan-gost-library)
+
 # splan-gost-library
 
 Библиотека условных графических обозначений (УГО) электронных компонентов для выполнения схем по стандартам ЕСКД в программе **sPlan 8**.
