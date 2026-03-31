@@ -2,6 +2,8 @@
 ![ГОСТ](https://img.shields.io/badge/ЕСКД-green)
 ![Лицензия](https://img.shields.io/github/license/ElectroDenny/splan-gost-library)
 ![Последнее обновление](https://img.shields.io/github/last-commit/ElectroDenny/splan-gost-library)
+![GitHub repo size](https://img.shields.io/github/repo-size/ElectroDenny/splan-gost-library)
+
 
 # splan-gost-library
 
