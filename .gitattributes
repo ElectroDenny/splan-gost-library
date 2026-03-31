@@ -1,0 +1,6 @@
+*.lib binary
+*.sbk binary
+*.ttf binary
+*.lib -text
+*.sbk -text
+*.ttf -text
